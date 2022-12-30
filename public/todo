@@ -1,0 +1,23 @@
+feature: version 1 {
+
+-   Product factory
+-   Single Product page
+-   Login User
+-   Cart Add Product
+-   Add transaction when checkout
+-   Show Transaction
+
+}
+
+Todo =
+
+-   User role (admin, user)
+-   Authentication system
+-   Admin Dashboard page
+-   Admin view detail and activity user
+-   Admin acc the order of user
+-   User payment method
+-   User shipping method
+-   Product qty add to cart
+
+Completed =
